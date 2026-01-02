@@ -1,0 +1,4 @@
+The ncdu command provides a fast and very easy-to-use way to see how you are using disk space on your Linux system. It allows you to navigate through your directories and files and review what file content is using up the most disk space. If you’ve never used this command, you’ll likely have to install it before you can take advantage of the insights it can provide with a command like one of these:
+
+$ sudo dnf install ncdu
+$ sudo apt install ncdu
